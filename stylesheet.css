@@ -1,0 +1,21 @@
+#header{
+  background-color:#34E1D1;
+  text-align:center;
+  border-style:solid;
+  font-weight:bold;
+  font-family:sans-serif;
+  }
+
+#button{
+  background-color:none;
+  font-style:italic;
+  text-shadow: 4px 4px 8px;
+}
+
+#p{
+  font-style:italic;
+}
+
+.li{
+  font-style:italic;
+}
